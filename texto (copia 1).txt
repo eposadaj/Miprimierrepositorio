@@ -1,2 +1,5 @@
 Mi segundo commit
 La fecha es 2025-04-25
+
+Hoy es el primer taller de git y github
+Se trabajara al fianl en parrejas un jueguito de trikki
